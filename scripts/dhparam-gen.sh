@@ -1,0 +1,1 @@
+sudo openssl dhparam -out $PWD/volume/public-server/ssl/dhparam-2048.pem 2048
